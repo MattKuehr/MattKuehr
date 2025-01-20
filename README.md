@@ -4,7 +4,7 @@
 
 -My name is Matt Kuehr and I am a junior at Auburn University studying applied mathematics.
 
-## Programming Languages
+## Programming Languages 🛠️
 
 - Python
   - NumPy
@@ -15,23 +15,23 @@
   - Matplotlib
 - LaTeX
 
-## Software Skills
--Git
--Anaconda
+## Software Skills 💻
+- Git
+- Anaconda
 
-## Mathematical Background
+## Mathematical Background ♾️
 
 Fill
 
-## Research Interests
+## Research Interests 🔎
 
 My research interests lie at the intersection of applied math, computer science and machine learning.
 
-## Projects
+## Projects 
 
 My projects are mainly in the areas 
 
-## Contact Information
+## Contact Information 📧
 
 To contact me, reach out to mck0063@auburn.edu or [visit my LinkedIn.](https://www.linkedin.com/in/matthew-kuehr-658103327/)
 
