@@ -27,7 +27,7 @@
 
 I have an extensive formal education in mathematics, with a focus on applied math courses.
 
-Some of the foundational math courses I have taken:
+**Some of the foundational math courses I have taken**
 - Calculus I (MATH 1610)
 - Calculus II (MATH 1620)
 - Calculus III (MATH 2630)
@@ -36,13 +36,14 @@ Some of the foundational math courses I have taken:
 - Probability and Statistics I (STAT 3600)
 - Introduction to Proofs (MATH 3100)
 
-Some more specialized courses:
+**Some more specialized courses**
 - Mathematical Modeling (MATH 5000)
 - Real Analysis I (MATH 5200)
 - Numerical Analysis I (MATH 5630)
 - Theory of Nonlinear Optimization (MATH 5650)
 
-Courses I am taking right now:
+**Courses I am taking right now**
+- Introduction to Algorithms (COMP 3270)
 - Probability and Statistics II (STAT 3610)
 - Real Analysis II (MATH 5210)
 - Numerical Analysis II (MATH 5640)
@@ -50,11 +51,24 @@ Courses I am taking right now:
 
 ## Research Interests 🔎
 
-My research interests lie at the intersection of applied math, computer science and machine learning.
+My research interests are in the intersection of computer science and applied math:
+
+- Applications of neural networks
+  - Regression and classification with multi-layer perceptrons.
+  - Image classification tasks with convolutional neural networks.
+  - Simulation and parameter inversion with physics informed neural networks.
+- Numerical computing
+  - Gradient free optimization with particle swarm optimization.
+  - Using parallel computing to train neural networks.
+  - Building computational graphs for automatic differentiation in neural networks.
 
 ## Projects 
 
-My projects are mainly in the areas 
+If you want to check out my projects, I suggest looking at:
+- [My from-scratch neural network](https://github.com/MattKuehr/Neural-Network)
+- [My particle swarm simulator](https://github.com/MattKuehr/MATH-5650-Project)
+- [My coding projects from Numerical Analysis](https://github.com/MattKuehr/Numerical-Analysis-I)
+- [My Website](https://github.com/MattKuehr/MattKuehr-Website)
 
 ## Contact Information 📧
 
