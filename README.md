@@ -5,14 +5,15 @@
 -My name is Matt Kuehr and I am a junior at Auburn University studying applied mathematics.
 
 ## Programming Languages
--Python
-  -NumPy
-  -SciPy
-  -pandas
-  -scikit learn
-  -PyTorch
-  -Matplotlib
--LaTeX
+
+- Python
+  - NumPy
+  - SciPy
+  - pandas
+  - scikit learn
+  - PyTorch
+  - Matplotlib
+- LaTeX
 
 ## Software Skills
 -Git
@@ -24,7 +25,7 @@ Fill
 
 ## Research Interests
 
-My research interests.
+My research interests lie at the intersection of applied math, computer science and machine learning.
 
 ## Projects
 
