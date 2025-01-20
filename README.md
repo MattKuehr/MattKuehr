@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Matt Kuehr and I am a junior at Auburn University studying applied mathematics. 
+-My name is Matt Kuehr and I am a junior at Auburn University studying applied mathematics.
 
 ## Research Interests
 
@@ -14,7 +14,7 @@ My projects.
 
 ## Contact Information
 
-My contact information.
+To contact me, reach out to mck0063@auburn.edu [or visit my LinkedIn.](https://www.linkedin.com/in/matthew-kuehr-658103327/)
 
 <!--
 **MattKuehr/MattKuehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
