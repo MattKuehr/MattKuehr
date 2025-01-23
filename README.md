@@ -3,15 +3,15 @@
 ## About Me 👋
 
 - My name is Matt Kuehr and I am a junior at Auburn University studying applied mathematics.
-- In my free time I enjoy chess, running and watching Auburn Basketball.
-- I've been learning Spanish for 6+ years.
 - I'm currently searching for an intership in data science or AI / ML to expand my knowledge and apply what I've learned in school!
+- I'm interested in machine learning, specifically in applying neural networks to real-world problems.
 
 ## Programming Languages 🛠️
 
 - Python
   - NumPy
   - SciPy
+  - autograd
   - pandas
   - scikit learn
   - PyTorch
