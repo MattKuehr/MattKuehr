@@ -64,10 +64,10 @@ My research interests are in the intersection of computer science and applied ma
 
 ## Projects 
 
-If you want to check out my projects, I suggest looking at:
+If you're interested in looking through my projects, I suggest looking at:
 - [My from-scratch neural network](https://github.com/MattKuehr/Neural-Network)
 - [My particle swarm simulator](https://github.com/MattKuehr/MATH-5650-Project)
-- [My coding projects from Numerical Analysis](https://github.com/MattKuehr/Numerical-Analysis-I)
+- [My from-scratch physics-informed neural network](https://github.com/MattKuehr/FS-PINN)
 - [My Website](https://github.com/MattKuehr/MattKuehr-Website)
 
 ## Contact Information 📧
