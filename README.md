@@ -62,7 +62,7 @@ My research interests are in the intersection of computer science and applied ma
   - Using parallel computing to train neural networks.
   - Building computational graphs for automatic differentiation in neural networks.
 
-## Projects 
+## Projects 🗂️
 
 If you're interested in looking through my projects, I suggest looking at:
 - [My from-scratch neural network](https://github.com/MattKuehr/Neural-Network)
