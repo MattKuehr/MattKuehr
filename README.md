@@ -2,26 +2,20 @@
 
 ## About Me 👋
 
-- My name is Matt Kuehr and I am a junior at Auburn University studying applied mathematics.
-- I'm currently searching for an intership in data science or AI / ML to expand my knowledge and apply what I've learned in school!
-- I'm interested in machine learning, specifically in applying neural networks to real-world problems.
+- My name is Matt Kuehr and I am a Senior at Auburn University studying applied mathematics and artifical intelligence.
+- From May to August of 2025, I was a machine learning intern at [Hadrian Automation](https://www.hadrian.co/) in Torrance, California.
+- Since January of 2023, I have been involved in a join research lab between the Aerospace and Mathematics departments focusing on applying deep learning to Aerospace domains.
+- I am currently and Undergraduate Research Fellow in the math department at Aubrun University, applying numerical optimization to the study of photonic crystals.
+- I'm interested in AI and Optimization. Most of my work is in Deep Learning, Computer Vision and Numerical Analysis
 
 ## Programming Languages 🛠️
 
 - Python
-  - NumPy
-  - SciPy
-  - autograd
-  - pandas
-  - scikit learn
-  - PyTorch
-  - Matplotlib
-- LaTeX
 
 ## Software Skills 💻
 
 - Git
-- Anaconda
+- AWS
 
 ## Mathematical Background ♾️
 
